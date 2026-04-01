@@ -1,4 +1,4 @@
-import { CloudRain, CloudSun, Drop, MagnifyingGlass, SpinnerGap, SunDim, ThermometerSimple, Wind } from '@phosphor-icons/react'
+import { CloudRain, Drop, MagnifyingGlass, SpinnerGap, SunDim, ThermometerSimple, Wind } from '@phosphor-icons/react'
 import axios from 'axios'
 import { useMemo, useState } from 'react'
 import './index.css'
